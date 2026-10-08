@@ -31,7 +31,7 @@ Welcome to the ultimate curated directory of **guided cloud application deployme
 **Key Market Context:** 📈
 - **Market Dynamics:** The global Cloud Application Deployment & PaaS market is estimated at **~$25 Billion in 2026** and projected to reach **$70+ Billion by 2030** (CAGR ~18.5%). The sector is **moderately fragmented**, with public cloud hyperscalers (AWS, GCP, Azure) commanding infrastructure workloads while specialized PaaS and developer platform providers compete fiercely on developer experience, preview environments, and Git-push automation. 🌐
 - **AWS Launch Wizard** provides **guided enterprise workload deployment** (SQL Server, SAP, Active Directory) on AWS with zero manual architecture design. ☁️
-- **Coolify** leads open-source PaaS platforms with **62K+ GitHub stars**, delivering a complete self-hosted alternative to Vercel, Netlify, and Heroku. 🚀
+- **Coolify** leads open-source PaaS platforms with **62K+ GitHub_Stars**, delivering a complete self-hosted alternative to Vercel, Netlify, and Heroku. 🚀
 - **Dokploy** & **Dokku** offer lightweight Docker-driven Git-push environments for VPS infrastructure. 🐳
 
 ---
@@ -69,58 +69,58 @@ Welcome to the ultimate curated directory of **guided cloud application deployme
 
 ## 🔓 Open-Source GitHub Projects 🌐
 
-*Sorted by GitHub Star Count (Descending)* 🌟
+*Sorted by GitHub Stars_Count (Descending)* 🌟
 
 - **[Coolify](https://github.com/coollabsio/coolify)** [![Stars](https://img.shields.io/github/stars/coollabsio/coolify?style=social&color=white)](https://github.com/coollabsio/coolify/stargazers)  
-  **The leading open-source PaaS alternative to Vercel, Heroku, and Netlify**, Apache-2.0 licensed. **62,000+ GitHub stars** — **the most popular self-hosted PaaS**. Deploy apps, databases, and 280+ one-click open-source services (Plausible, Gitea, MinIO, n8n). Git-push deploys via GitHub, GitLab, Bitbucket, or Gitea with automatic SSL via Let's Encrypt and Nixpacks auto-builds. 🚀
+  **The leading open-source PaaS alternative to Vercel, Heroku, and Netlify**, Apache-2.0 licensed. **62,000+ GitHub_Stars** — **the most popular self-hosted PaaS**. Deploy apps, databases, and 280+ one-click open-source services (Plausible, Gitea, MinIO, n8n). Git-push deploys via GitHub, GitLab, Bitbucket, or Gitea with automatic SSL via Let's Encrypt and Nixpacks auto-builds. 🚀
 
 - **[Dokploy](https://github.com/Dokploy/dokploy)** [![Stars](https://img.shields.io/github/stars/Dokploy/dokploy?style=social&color=white)](https://github.com/Dokploy/dokploy/stargazers)  
-  **Modern open-source alternative to Vercel, Netlify, and Heroku**, AGPL-3.0 licensed. **37,300+ GitHub stars** — built on Docker and Traefik for reverse routing, multi-node management, automatic SSL, Nixpacks/Paketo buildpacks support, and Git-push webhooks. 🎯
+  **Modern open-source alternative to Vercel, Netlify, and Heroku**, AGPL-3.0 licensed. **37,300+ GitHub_Stars** — built on Docker and Traefik for reverse routing, multi-node management, automatic SSL, Nixpacks/Paketo buildpacks support, and Git-push webhooks. 🎯
 
 - **[Dokku](https://github.com/dokku/dokku)** [![Stars](https://img.shields.io/github/stars/dokku/dokku?style=social&color=white)](https://github.com/dokku/dokku/stargazers)  
-  **Docker-powered CLI PaaS for building and managing application lifecycles**, MIT licensed. **32,100+ GitHub stars** — legendary "Heroku on a VPS" implementation with Git-push buildpacks, extensible plugin ecosystem, and lightweight resource footprint. 🐳
+  **Docker-powered CLI PaaS for building and managing application lifecycles**, MIT licensed. **32,100+ GitHub_Stars** — legendary "Heroku on a VPS" implementation with Git-push buildpacks, extensible plugin ecosystem, and lightweight resource footprint. 🐳
 
 - **[Portainer](https://github.com/portainer/portainer)** [![Stars](https://img.shields.io/github/stars/portainer/portainer?style=social&color=white)](https://github.com/portainer/portainer/stargazers)  
-  **Universal container management platform for Docker, Swarm, and Kubernetes**, zlib licensed. **31,000+ GitHub stars** — centralized web UI to manage container deployments, environment templates, volume storage, and access controls. 🚢
+  **Universal container management platform for Docker, Swarm, and Kubernetes**, zlib licensed. **31,000+ GitHub_Stars** — centralized web UI to manage container deployments, environment templates, volume storage, and access controls. 🚢
 
 - **[Rancher](https://github.com/rancher/rancher)** [![Stars](https://img.shields.io/github/stars/rancher/rancher?style=social&color=white)](https://github.com/rancher/rancher/stargazers)  
-  **Complete open-source enterprise Kubernetes management platform**, Apache-2.0 licensed. **26,500+ GitHub stars** — simplifies multi-cluster Kubernetes operations, workload application deployments, and security policy management. 🤠
+  **Complete open-source enterprise Kubernetes management platform**, Apache-2.0 licensed. **26,500+ GitHub_Stars** — simplifies multi-cluster Kubernetes operations, workload application deployments, and security policy management. 🤠
 
 - **[CapRover](https://github.com/caprover/caprover)** [![Stars](https://img.shields.io/github/stars/caprover/caprover?style=social&color=white)](https://github.com/caprover/caprover/stargazers)  
-  **Automated Docker & Nginx PaaS platform**, Apache-2.0 licensed. **15,100+ GitHub stars** — "Heroku on Steroids" featuring one-click app installs, automatic free SSL certificates, and Git-push deployment automation. ⚓
+  **Automated Docker & Nginx PaaS platform**, Apache-2.0 licensed. **15,100+ GitHub_Stars** — "Heroku on Steroids" featuring one-click app installs, automatic free SSL certificates, and Git-push deployment automation. ⚓
 
 - **[Kamal](https://github.com/basecamp/kamal)** [![Stars](https://img.shields.io/github/stars/basecamp/kamal?style=social&color=white)](https://github.com/basecamp/kamal/stargazers)  
-  **Deploy web applications anywhere from bare metal to cloud**, MIT licensed. **14,500+ GitHub stars** — developed by 37signals/Basecamp for zero-downtime container deployments, rolling updates, and multi-server orchestration. 🚂
+  **Deploy web applications anywhere from bare metal to cloud**, MIT licensed. **14,500+ GitHub_Stars** — developed by 37signals/Basecamp for zero-downtime container deployments, rolling updates, and multi-server orchestration. 🚂
 
 - **[Daytona](https://github.com/daytonaio/daytona)** [![Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
-  **Open-source development environment manager and infrastructure deployment orchestrator**, Apache-2.0 licensed. **14,000+ GitHub stars** — automates remote workspace and application container provisioning. ⚡
+  **Open-source development environment manager and infrastructure deployment orchestrator**, Apache-2.0 licensed. **14,000+ GitHub_Stars** — automates remote workspace and application container provisioning. ⚡
 
 - **[Komodo](https://github.com/moghtech/komodo)** [![Stars](https://img.shields.io/github/stars/moghtech/komodo?style=social&color=white)](https://github.com/moghtech/komodo/stargazers)  
-  **Multi-server container deployment and build management tool**, GPL-3.0 licensed. **12,300+ GitHub stars** — resource monitoring, build pipelines, and automated multi-host docker compose deployments. 🦎
+  **Multi-server container deployment and build management tool**, GPL-3.0 licensed. **12,300+ GitHub_Stars** — resource monitoring, build pipelines, and automated multi-host docker compose deployments. 🦎
 
 - **[Piku](https://github.com/piku/piku)** [![Stars](https://img.shields.io/github/stars/piku/piku?style=social&color=white)](https://github.com/piku/piku/stargazers)  
-  **Minimalist Git-push PaaS framework**, MIT licensed. **6,600+ GitHub stars** — inspires simple Heroku-like deployments in under 1,000 lines of Python on low-end servers and Raspberry Pis. 🐜
+  **Minimalist Git-push PaaS framework**, MIT licensed. **6,600+ GitHub_Stars** — inspires simple Heroku-like deployments in under 1,000 lines of Python on low-end servers and Raspberry Pis. 🐜
 
 - **[Porter (Open Source Core)](https://github.com/porter-dev/porter)** [![Stars](https://img.shields.io/github/stars/porter-dev/porter?style=social&color=white)](https://github.com/porter-dev/porter/stargazers)  
-  **Open-source PaaS dashboard and deployment engine for Kubernetes**, Apache-2.0 licensed. **5,800+ GitHub stars** — brings Heroku-like developer experience to your own AWS, GCP, or Azure K8s clusters. 🚪
+  **Open-source PaaS dashboard and deployment engine for Kubernetes**, Apache-2.0 licensed. **5,800+ GitHub_Stars** — brings Heroku-like developer experience to your own AWS, GCP, or Azure K8s clusters. 🚪
 
 - **[Easypanel](https://github.com/easypanel-io/easypanel)** [![Stars](https://img.shields.io/github/stars/easypanel-io/easypanel?style=social&color=white)](https://github.com/easypanel-io/easypanel/stargazers)  
-  **Modern server control panel powered by Docker**, BSL-1.1 licensed. **3,500+ GitHub stars** — easily deploy database services, Node.js/Python/PHP web applications, and SSL proxies with a clean administrative interface. 🎛️
+  **Modern server control panel powered by Docker**, BSL-1.1 licensed. **3,500+ GitHub_Stars** — easily deploy database services, Node.js/Python/PHP web applications, and SSL proxies with a clean administrative interface. 🎛️
 
 - **[Tsuru](https://github.com/tsuru/tsuru)** [![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=social&color=white)](https://github.com/tsuru/tsuru/stargazers)  
-  **Extensible open-source Platform as a Service on Kubernetes**, Apache-2.0 licensed. **3,500+ GitHub stars** — battle-tested enterprise PaaS supporting multi-tenant application lifecycle management. 🦙
+  **Extensible open-source Platform as a Service on Kubernetes**, Apache-2.0 licensed. **3,500+ GitHub_Stars** — battle-tested enterprise PaaS supporting multi-tenant application lifecycle management. 🦙
 
 - **[SwiftWave](https://github.com/swiftwave-org/swiftwave)** [![Stars](https://img.shields.io/github/stars/swiftwave-org/swiftwave?style=social&color=white)](https://github.com/swiftwave-org/swiftwave/stargazers)  
-  **Lightweight self-hosted PaaS for any VPS**, Apache-2.0 licensed. **890+ GitHub stars** — Docker Swarm engine integration, automatic SSL renewal, and simple web management UI. 🌊
+  **Lightweight self-hosted PaaS for any VPS**, Apache-2.0 licensed. **890+ GitHub_Stars** — Docker Swarm engine integration, automatic SSL renewal, and simple web management UI. 🌊
 
 - **[OpenRun](https://github.com/openrundev/openrun)** [![Stars](https://img.shields.io/github/stars/openrundev/openrun?style=social&color=white)](https://github.com/openrundev/openrun/stargazers)  
-  **Declarative GitOps application deployment platform**, Apache-2.0 licensed. **500+ GitHub stars** — Open-source alternative to Google Cloud Run and AWS App Runner featuring scale-to-zero capabilities and Starlark config. 📝
+  **Declarative GitOps application deployment platform**, Apache-2.0 licensed. **500+ GitHub_Stars** — Open-source alternative to Google Cloud Run and AWS App Runner featuring scale-to-zero capabilities and Starlark config. 📝
 
 - **[Homerun](https://github.com/orochibraru/homerun)** [![Stars](https://img.shields.io/github/stars/orochibraru/homerun?style=social&color=white)](https://github.com/orochibraru/homerun/stargazers)  
-  **Self-hosted single-user PaaS for homelabs**, open-source. **350+ GitHub stars** — web-form container deployment from Git repositories or Docker images with live streaming logs. 🏠
+  **Self-hosted single-user PaaS for homelabs**, open-source. **350+ GitHub_Stars** — web-form container deployment from Git repositories or Docker images with live streaming logs. 🏠
 
 - **[Miabi](https://github.com/miabi-io/miabi)** [![Stars](https://img.shields.io/github/stars/miabi-io/miabi?style=social&color=white)](https://github.com/miabi-io/miabi/stargazers)  
-  **Enterprise self-hosted PaaS with multi-cluster isolation**, open-source. **200+ GitHub stars** — workspace RBAC, pipeline-as-code CI/CD, SAML/LDAP authentication, and declarative manifests. 🏢
+  **Enterprise self-hosted PaaS with multi-cluster isolation**, open-source. **200+ GitHub_Stars** — workspace RBAC, pipeline-as-code CI/CD, SAML/LDAP authentication, and declarative manifests. 🏢
 
 ---
 
@@ -130,7 +130,7 @@ Contributions are welcome! Follow these steps to submit new guided cloud applica
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add or update** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include official website or GitHub repository link, exact star count badge, license, starting price, and brief description.
+3. 🔗 Include official website or GitHub repository link, exact Stars_Count badge, license, starting price, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
